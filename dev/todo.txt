@@ -1,0 +1,11 @@
+- 0.0.2 -
+[ ] Menu structure
+[ ] Basic interface
+
+- 0.0.1 -
+[ ] Paper prototype for app UI design
+[ ] Persistent window geometry
+[ ] Program icon / logo
+[ ] About dialog
+[ ] Main window
+[ ] Basic project setup and utils
