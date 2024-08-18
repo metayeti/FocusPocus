@@ -7,7 +7,7 @@ v0.0.0
 
 ## About
 
-This is a small, free and open source, cross-platform productivity application. Its main goal is to track work hours for various tasks. Think of it as a time tracking buddy for your desktop.
+This is a small, free and open source, cross-platform productivity application. Its main goal is to track work hours for various user-defined tasks. Think of it as a time tracker buddy for the desktop.
 
 Instructions for use will appear when you first run the application, or if you select Tutorial from the Help menu.
 
@@ -19,7 +19,7 @@ Instructions for use will appear when you first run the application, or if you s
 - Compact design
 - Profiles and tasks
 - Time tracking
-- Export task summary
+- Export summary
 
 ## Installation
 
